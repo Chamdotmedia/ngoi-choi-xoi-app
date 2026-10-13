@@ -32,3 +32,7 @@ Cứ nhờ AI như bình thường, ví dụ: "Làm cho tôi trang đặt lịch
 ## Lưu ý
 
 Thông tin về các nền tảng đưa app lên internet (Lovable, Netlify, Cloudflare, Vercel, GitHub Pages) được tra ngày 13/10/2026 và có thể thay đổi.
+
+## Giấy phép
+
+[MIT](LICENSE): bạn được tự do dùng, sửa và chia sẻ lại skill này, kể cả cho việc kinh doanh, miễn là giữ lại dòng ghi bản quyền và nội dung giấy phép.
